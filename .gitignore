@@ -1,0 +1,7 @@
+.idea/
+.bsp/
+target/
+**/project/
+**/target/
+out/
+*.iml
